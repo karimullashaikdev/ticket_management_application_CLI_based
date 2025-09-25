@@ -189,8 +189,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Karimulla Shaik**
 - 🐙 GitHub: [@karimullashaikdev](https://github.com/karimullashaikdev)
-- 📧 Email: [Contact](mailto:your.email@example.com)
-- 💼 LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
+- 📧 Email: [Contact](shaikkarimulladev@gmail.com)
+- 💼 LinkedIn: [Shaik Karimulla](www.linkedin.com/in/karimulla-shaik-140798183)
 
 ---
 
